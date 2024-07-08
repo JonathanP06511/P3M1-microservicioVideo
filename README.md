@@ -47,8 +47,6 @@ This project is a Node.js and Express microservice that serves a video from a lo
 
 ## Endpoints
 
-- `GET /products`: Retrieves all products.
-- `POST /products`: Creates a new product.
-- `GET /products/:id`: Retrieves a specific product by ID.
-- `PUT /products/:id`: Updates a specific product by ID.
-- `DELETE /products/:id`: Deletes a specific product by ID.
+- `GET /`: Returns the index.html file.
+- `GET /api/video`: Returns the video.
+
